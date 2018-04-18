@@ -7,7 +7,3 @@ def my_each(array) # put argument(s) here
     array
 end
 end
-
-my_each(array) do |word|
- puts word
-end
